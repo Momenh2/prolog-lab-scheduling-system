@@ -60,6 +60,13 @@ The system models TAs and their available slots, then recursively assigns them t
 
 - [SWI-Prolog](https://www.swi-prolog.org/) or any compatible Prolog interpreter.
 
-## License
+## 🛡️ License
 
-MIT License (or specify your own). 
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Author
+
+**Momen H.**  
+📂 [GitHub Profile »](https://github.com/Momenh2)
